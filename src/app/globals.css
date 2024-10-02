@@ -6,7 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: aquamarine;
+  background-color: rgb(175, 215, 29);
   text-decoration-color: blue;
 }
 img {
@@ -28,7 +28,11 @@ img {
 }
 .color2 {
   color: brown;
-  font-size: 80px;
+  font-size: 60px;
+}
+h1{
+  color: blueviolet;
+  font-size: 100px;
 }
 
 .become {
