@@ -4,14 +4,13 @@ export default function Home() {
       <div className="childContainer">
         Hey,
         <br />
-<h1>       Uzair Ahmed
-</h1>
+        I'm <span className="color1">Uzair Ahmed</span>
         <div className="become"> & become a</div>
-        Web Designer
+        <span className="color2">Web Developer</span>
       </div>
       <div className="childContainer">
         <img
-          src="https://media.philstar.com/photos/2024/02/12/4_2024-02-12_22-18-20.jpg"
+          src="https://static.thenounproject.com/png/553763-200.png"
           alt="Uzair picture Shahow"
         />
       </div>
